@@ -1,7 +1,7 @@
 # 豆瓣电影Demo
 
->- 该APP是以React-Native官方文档中的案例[Movies app](http://reactnative.cn/docs/0.37/sample-application-movies.html)为蓝本编写的
-- Fetch数据采用[豆瓣API](https://developers.douban.com/wiki/?title=movie_v2)（感谢豆瓣提供的数据）
+> - 该APP是以React-Native官方文档中的案例[Movies app](http://reactnative.cn/docs/0.37/sample-application-movies.html)为蓝本编写的
+> - Fetch数据采用[豆瓣API](https://developers.douban.com/wiki/?title=movie_v2)（感谢豆瓣提供的数据）
 
 
 ![豆瓣电影Demo part1](https://user-images.githubusercontent.com/24715477/48671952-6ea26f80-eb6a-11e8-9cf2-d5f1a7540f48.gif)
